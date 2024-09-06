@@ -1,0 +1,19 @@
+.main {
+  height: 100px;
+  background-color: #4c4d4e;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 2rem;
+  top: 0;
+}
+
+.main nav ul {
+  display: flex;
+  gap: 1rem;
+  list-style: none;
+}
+.main nav ul li a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
